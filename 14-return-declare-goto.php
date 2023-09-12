@@ -12,7 +12,7 @@ function onTick() {
 register_tick_function('onTick');
 
 declare(ticks=3){
- $i = 0;
+$i = 0;
 
 $length = 10;
 
